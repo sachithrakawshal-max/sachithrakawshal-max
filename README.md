@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Sachithra Kawshal 👋
 
-<!--
-**sachithrakawshal-max/sachithrakawshal-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a 20-year-old software engineering student passionate about building innovative solutions through code.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- **Name:** Sachithra Kawshal
+- **Age:** 20
+- **Major:** Software Engineering
+- **Passionate about:** Full-stack development, problem-solving, and continuous learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Up To
+I'm actively working on projects to enhance my skills in software development and exploring various technologies in the software engineering domain.
+
+## 💡 Let's Connect
+Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss software engineering!
+
+---
+*Happy Coding!* 🎯
