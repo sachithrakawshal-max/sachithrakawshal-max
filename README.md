@@ -26,7 +26,6 @@ I'm currently working on projects that strengthen my software development skills
 ## 💡 Let's Connect
 Thanks for visiting my GitHub profile! Feel free to explore my repositories and check out my latest projects. If you're interested in collaborating, discussing software engineering, or sharing ideas about technology, don't hesitate to reach out. I'm always open to learning, contributing, and connecting with fellow developers.Thanks for visiting my GitHub profile! Feel free to explore my repositories and check out my latest projects. If you're interested in collaborating, discussing software engineering, or sharing ideas about technology, don't hesitate to reach out. I'm always open to learning, contributing, and connecting with fellow developers.
 
----
 *Happy Coding!* 🎯
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachithrakawshal-max&label=Profile%20views&color=0e75b6&style=flat" alt="sachithrakawshal-max" /> </p>
