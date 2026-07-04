@@ -6,21 +6,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Engineering+Undergraduate;Full+Stack+Developer;Game+Developer;Always+Learning+New+Technologies" />
 </p>
 
-# Hi there, I'm Sachithra Kawshal 👋
+# Hi there, I'm Kawshal Fernando👋
 
 Welcome to my GitHub profile! I'm a 20-year-old software engineering student passionate about building innovative solutions through code.
 
 ## 👨‍💻 About Me
-- **Name:** Sachithra Kawshal
-- **Age:** 20
-- **Major:** Software Engineering
-- **Passionate about:** Full-stack development, problem-solving, and continuous learning
+
+- 👤 **Name:** Sachithra Kawshal
+- 🎓 **Major:** BSc (Hons) Software Engineering
+- 💻 **Interests:** Full-Stack Development, Web Development, and Software Engineering
+- 🎮 **Learning:** Game Development
+- 🧩 **Skills:** Problem-Solving and Algorithmic Thinking
+- 🌱 **Currently Exploring:** Modern Frameworks, Cloud Computing, and New Technologies
+- 🚀 **Goal:** Build innovative, scalable, and user-friendly software solutions
 
 ## 🚀 What I'm Up To
-I'm actively working on projects to enhance my skills in software development and exploring various technologies in the software engineering domain.
+I'm currently working on projects that strengthen my software development skills while exploring modern technologies, frameworks, and best practices in software engineering. I'm passionate about continuous learning and enjoy building practical solutions that solve real-world problems.
 
 ## 💡 Let's Connect
-Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss software engineering!
+Thanks for visiting my GitHub profile! Feel free to explore my repositories and check out my latest projects. If you're interested in collaborating, discussing software engineering, or sharing ideas about technology, don't hesitate to reach out. I'm always open to learning, contributing, and connecting with fellow developers.Thanks for visiting my GitHub profile! Feel free to explore my repositories and check out my latest projects. If you're interested in collaborating, discussing software engineering, or sharing ideas about technology, don't hesitate to reach out. I'm always open to learning, contributing, and connecting with fellow developers.
 
 ---
 *Happy Coding!* 🎯
